@@ -2,6 +2,8 @@
 
 A structured, open, and semantically rich database of Bible-related images and maps, curated and published by the [Nida Institute](https://github.com/nida-institute).
 
+**Status**:  Don't get too excited.  I have stubbed out a project and hope to get back to it some time this year. Nothing is ready for real use yet.  I will mock up a demo soonish.
+
 ---
 
 ## ✨ What This Is
